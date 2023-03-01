@@ -7,7 +7,6 @@ An AI to play the Rock Paper Scissors game
 - Tensorflow
 - OpenCV
 
-
 ## Set up instructions
 1. Clone the repo.
 ```sh
